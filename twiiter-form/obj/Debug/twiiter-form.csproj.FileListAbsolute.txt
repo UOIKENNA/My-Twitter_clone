@@ -1,0 +1,10 @@
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\bin\Debug\twiiter-form.exe.config
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\bin\Debug\twiiter-form.exe
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\bin\Debug\twiiter-form.pdb
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter-form.csprojAssemblyReference.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter_form.Properties.Resources.resources
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter_form.Form1.resources
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter-form.csproj.GenerateResource.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter-form.csproj.CoreCompileInputs.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter-form.exe
+C:\Users\IKENNA\source\repos\Twitter-Application\twiiter-form\obj\Debug\twiiter-form.pdb

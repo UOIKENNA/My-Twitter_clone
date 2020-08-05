@@ -1,0 +1,6 @@
+C:\Users\IKENNA\source\repos\Twitter-Application\TweetManager\bin\Debug\TweetManager.dll
+C:\Users\IKENNA\source\repos\Twitter-Application\TweetManager\bin\Debug\TweetManager.pdb
+C:\Users\IKENNA\source\repos\Twitter-Application\TweetManager\obj\Debug\TweetManager.csprojAssemblyReference.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\TweetManager\obj\Debug\TweetManager.csproj.CoreCompileInputs.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\TweetManager\obj\Debug\TweetManager.dll
+C:\Users\IKENNA\source\repos\Twitter-Application\TweetManager\obj\Debug\TweetManager.pdb

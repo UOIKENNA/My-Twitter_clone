@@ -1,0 +1,10 @@
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\bin\Debug\Twitter_Console.exe.config
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\bin\Debug\Twitter_Console.exe
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\bin\Debug\Twitter_Console.pdb
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\obj\Debug\Twitter_Console.csprojAssemblyReference.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\obj\Debug\Twitter_Console.csproj.CoreCompileInputs.cache
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\obj\Debug\Twitter_Console.exe
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\obj\Debug\Twitter_Console.pdb
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\bin\Debug\TweetManager.dll
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\bin\Debug\TweetManager.pdb
+C:\Users\IKENNA\source\repos\Twitter-Application\Twitter_Console\obj\Debug\Twitter_Console.csproj.CopyComplete
